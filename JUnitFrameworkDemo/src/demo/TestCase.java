@@ -28,7 +28,7 @@ public class TestCase {
     //System.out.println("Your actual Test case");
     //assertEquals(4, FindResult.FindMaxNum(new int[] {1,2,3,4}));
     //assertEquals(-1, FindResult.FindMaxNum(new int[] {-3,-2,-1}));
-    //assertEquals(0, FindResult.FindMaxNum(new int[] {-3,-2,-1}));
+    //assertEquals(5, FindResult.FindMaxNum(new int[] {-3,-2,-1,5}));
     
     assertTrue(FindResult.isEvenNum(2));
     assertTrue(FindResult.isEvenNum(4));
